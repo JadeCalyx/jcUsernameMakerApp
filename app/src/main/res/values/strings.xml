@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JC Username Maker</string>
+    <string name="greeting">Type a single word and tap go! If you don\'t see a username you like, just tap go again.</string>
+</resources>
