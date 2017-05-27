@@ -1,4 +1,4 @@
-package com.johnchambersga.t2;
+package us.johnchambers.t2;
 
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;

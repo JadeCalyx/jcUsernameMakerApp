@@ -1,4 +1,4 @@
-package com.johnchambersga.t2;
+package us.johnchambers.t2;
 
 import android.text.TextUtils;
 import android.widget.TextView;
