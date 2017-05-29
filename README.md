@@ -8,10 +8,6 @@ This is a work in progress. It is a demo project for my andoroid programming ski
 
 John Chambers
 
-chambersj@outlook.com
-
-678-389-9966
-
 http://www.jadecalyx.xyz
 
 https://www.linkedin.com/in/jmchambers/
