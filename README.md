@@ -1,31 +1,17 @@
-jcUsernameMakerApp readme
+jcUsernameMakerApp
 
-# README #
+This is a simple Android app to create usernames based.
 
-This README would normally document whatever steps are necessary to get your application up and running.
+It can be downloaded form the Google Play Store here: https://play.google.com/store/apps/details?id=com.johnchambersga.t2&hl=en
 
-### What is this repository for? ###
+This is a work in progress. It is a demo project for my andoroid programming skills.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+John Chambers
 
-### How do I get set up? ###
+chambersj@outlook.com
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+678-389-9966
 
-### Contribution guidelines ###
+http://www.jadecalyx.xyz
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+https://www.linkedin.com/in/jmchambers/
